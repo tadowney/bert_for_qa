@@ -1,0 +1,4004 @@
+{
+    "predictions": [
+        {
+            "example_id": 3262882280361419647,
+            "long_answer": {
+                "start_token": 182,
+                "end_token": 206,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 13.65673828125,
+            "short_answers": [
+                {
+                    "start_token": 183,
+                    "end_token": 205,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 13.65673828125,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 6194915277794840386,
+            "long_answer": {
+                "start_token": 267,
+                "end_token": 345,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 15.407620668411255,
+            "short_answers": [
+                {
+                    "start_token": 281,
+                    "end_token": 283,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 15.407620668411255,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 1658149178541467525,
+            "long_answer": {
+                "start_token": 3778,
+                "end_token": 3993,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 17.448851108551025,
+            "short_answers": [
+                {
+                    "start_token": 3780,
+                    "end_token": 3799,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 17.448851108551025,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -3290814144789249484,
+            "long_answer": {
+                "start_token": 394,
+                "end_token": 6124,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 15.42493724822998,
+            "short_answers": [
+                {
+                    "start_token": 6073,
+                    "end_token": 6075,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 15.42493724822998,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -7350738264545175214,
+            "long_answer": {
+                "start_token": 4038,
+                "end_token": 4106,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 21.198180675506592,
+            "short_answers": [
+                {
+                    "start_token": 4040,
+                    "end_token": 4044,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 21.198180675506592,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -7799443462247366740,
+            "long_answer": {
+                "start_token": 2411,
+                "end_token": 2559,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 15.348498106002808,
+            "short_answers": [
+                {
+                    "start_token": 2412,
+                    "end_token": 2420,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 15.348498106002808,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 2689040320115501056,
+            "long_answer": {
+                "start_token": 524,
+                "end_token": 601,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 19.72774624824524,
+            "short_answers": [
+                {
+                    "start_token": 526,
+                    "end_token": 528,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 19.72774624824524,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -7890654922490959584,
+            "long_answer": {
+                "start_token": 2182,
+                "end_token": 2303,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 11.76762568950653,
+            "short_answers": [
+                {
+                    "start_token": 2183,
+                    "end_token": 2210,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 11.76762568950653,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -232899194860976791,
+            "long_answer": {
+                "start_token": 3056,
+                "end_token": 3083,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 15.158443450927734,
+            "short_answers": [
+                {
+                    "start_token": 3058,
+                    "end_token": 3059,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 15.158443450927734,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -6470661682628568770,
+            "long_answer": {
+                "start_token": 167,
+                "end_token": 196,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 14.663662433624268,
+            "short_answers": [
+                {
+                    "start_token": 170,
+                    "end_token": 193,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 14.663662433624268,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 3044095641568178082,
+            "long_answer": {
+                "start_token": 503,
+                "end_token": 574,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 20.504433631896973,
+            "short_answers": [
+                {
+                    "start_token": 559,
+                    "end_token": 567,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 20.504433631896973,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -4876736938910486341,
+            "long_answer": {
+                "start_token": 3136,
+                "end_token": 3371,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 15.14627718925476,
+            "short_answers": [
+                {
+                    "start_token": 3137,
+                    "end_token": 3139,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 15.14627718925476,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 4729109739610014727,
+            "long_answer": {
+                "start_token": 18,
+                "end_token": 110,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 15.967148303985596,
+            "short_answers": [
+                {
+                    "start_token": 60,
+                    "end_token": 65,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 15.967148303985596,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -4047248994442147533,
+            "long_answer": {
+                "start_token": 1372,
+                "end_token": 1419,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 16.429595232009888,
+            "short_answers": [
+                {
+                    "start_token": 1413,
+                    "end_token": 1415,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 16.429595232009888,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 6565178863987366953,
+            "long_answer": {
+                "start_token": 212,
+                "end_token": 287,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 20.389182567596436,
+            "short_answers": [
+                {
+                    "start_token": 213,
+                    "end_token": 216,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 20.389182567596436,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 6986236841860957647,
+            "long_answer": {
+                "start_token": 260,
+                "end_token": 344,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 17.289876222610474,
+            "short_answers": [
+                {
+                    "start_token": 288,
+                    "end_token": 294,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 17.289876222610474,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 2835468258185895229,
+            "long_answer": {
+                "start_token": 201,
+                "end_token": 7977,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 13.164434909820557,
+            "short_answers": [
+                {
+                    "start_token": 4116,
+                    "end_token": 4152,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 13.164434909820557,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 2161753529169331826,
+            "long_answer": {
+                "start_token": 344,
+                "end_token": 2409,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 16.795382976531982,
+            "short_answers": [
+                {
+                    "start_token": 1392,
+                    "end_token": 1394,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 16.795382976531982,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -2518081108995455082,
+            "long_answer": {
+                "start_token": 1935,
+                "end_token": 2065,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 15.34884262084961,
+            "short_answers": [
+                {
+                    "start_token": 2058,
+                    "end_token": 2064,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 15.34884262084961,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -7709111104155953766,
+            "long_answer": {
+                "start_token": 1182,
+                "end_token": 1200,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 18.59701108932495,
+            "short_answers": [
+                {
+                    "start_token": 1183,
+                    "end_token": 1185,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 18.59701108932495,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -3429928405660073272,
+            "long_answer": {
+                "start_token": 3208,
+                "end_token": 3233,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 14.121118307113647,
+            "short_answers": [
+                {
+                    "start_token": 3209,
+                    "end_token": 3232,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 14.121118307113647,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 3071184395682844971,
+            "long_answer": {
+                "start_token": 114,
+                "end_token": 290,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 11.290040135383606,
+            "short_answers": [
+                {
+                    "start_token": 115,
+                    "end_token": 132,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 11.290040135383606,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 4590422471265833514,
+            "long_answer": {
+                "start_token": 444,
+                "end_token": 487,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 18.40419292449951,
+            "short_answers": [
+                {
+                    "start_token": 451,
+                    "end_token": 456,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 18.40419292449951,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -2849623683357556933,
+            "long_answer": {
+                "start_token": 2722,
+                "end_token": 2799,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 11.937839150428772,
+            "short_answers": [
+                {
+                    "start_token": 2723,
+                    "end_token": 2734,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 11.937839150428772,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -3916314455221861524,
+            "long_answer": {
+                "start_token": 659,
+                "end_token": 739,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 11.491135776042938,
+            "short_answers": [
+                {
+                    "start_token": 715,
+                    "end_token": 738,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 11.491135776042938,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -7897846385260632865,
+            "long_answer": {
+                "start_token": 366,
+                "end_token": 442,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 18.53953766822815,
+            "short_answers": [
+                {
+                    "start_token": 435,
+                    "end_token": 440,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 18.53953766822815,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 7918681539165404123,
+            "long_answer": {
+                "start_token": 653,
+                "end_token": 699,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 15.841166019439697,
+            "short_answers": [
+                {
+                    "start_token": 696,
+                    "end_token": 697,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 15.841166019439697,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 2620720975912644835,
+            "long_answer": {
+                "start_token": 2300,
+                "end_token": 2435,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 13.165836095809937,
+            "short_answers": [
+                {
+                    "start_token": 2302,
+                    "end_token": 2303,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 13.165836095809937,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 3349644992728619890,
+            "long_answer": {
+                "start_token": 2045,
+                "end_token": 2107,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 15.476233720779419,
+            "short_answers": [
+                {
+                    "start_token": 2046,
+                    "end_token": 2072,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 15.476233720779419,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -4092499579855624350,
+            "long_answer": {
+                "start_token": 4305,
+                "end_token": 4382,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 18.123047351837158,
+            "short_answers": [
+                {
+                    "start_token": 4307,
+                    "end_token": 4308,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 18.123047351837158,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -830889367883154000,
+            "long_answer": {
+                "start_token": 1096,
+                "end_token": 1129,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 11.811959981918335,
+            "short_answers": [
+                {
+                    "start_token": 1098,
+                    "end_token": 1100,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 11.811959981918335,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -7976063039564136187,
+            "long_answer": {
+                "start_token": 50,
+                "end_token": 60,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 10.245270758867264,
+            "short_answers": [
+                {
+                    "start_token": 51,
+                    "end_token": 59,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 10.245270758867264,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 4627523927977896713,
+            "long_answer": {
+                "start_token": 3491,
+                "end_token": 3513,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 15.174827337265015,
+            "short_answers": [
+                {
+                    "start_token": 3494,
+                    "end_token": 3510,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 15.174827337265015,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -4843437099290518220,
+            "long_answer": {
+                "start_token": 4118,
+                "end_token": 4130,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 16.546839714050293,
+            "short_answers": [
+                {
+                    "start_token": 4119,
+                    "end_token": 4128,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 16.546839714050293,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -360833956386934695,
+            "long_answer": {
+                "start_token": 316,
+                "end_token": 347,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 16.944215774536133,
+            "short_answers": [
+                {
+                    "start_token": 317,
+                    "end_token": 332,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 16.944215774536133,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -1316222192679256095,
+            "long_answer": {
+                "start_token": 67,
+                "end_token": 257,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 16.00491237640381,
+            "short_answers": [
+                {
+                    "start_token": 68,
+                    "end_token": 96,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 16.00491237640381,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 9109663794263329492,
+            "long_answer": {
+                "start_token": 214,
+                "end_token": 293,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 15.412867784500122,
+            "short_answers": [
+                {
+                    "start_token": 265,
+                    "end_token": 292,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 15.412867784500122,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 5696680934593979206,
+            "long_answer": {
+                "start_token": 146,
+                "end_token": 257,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 13.789958477020264,
+            "short_answers": [
+                {
+                    "start_token": 253,
+                    "end_token": 255,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 13.789958477020264,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 955374967862684316,
+            "long_answer": {
+                "start_token": 3239,
+                "end_token": 3281,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 16.09075164794922,
+            "short_answers": [
+                {
+                    "start_token": 3240,
+                    "end_token": 3257,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 16.09075164794922,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -484893103096113845,
+            "long_answer": {
+                "start_token": 1202,
+                "end_token": 1354,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 16.560527563095093,
+            "short_answers": [
+                {
+                    "start_token": 1235,
+                    "end_token": 1239,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 16.560527563095093,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 6003961968976040361,
+            "long_answer": {
+                "start_token": 4169,
+                "end_token": 4626,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 13.168313026428223,
+            "short_answers": [
+                {
+                    "start_token": 4534,
+                    "end_token": 4557,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 13.168313026428223,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 511925173790467566,
+            "long_answer": {
+                "start_token": 73,
+                "end_token": 213,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 12.385561615228653,
+            "short_answers": [
+                {
+                    "start_token": 74,
+                    "end_token": 77,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 12.385561615228653,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 7242602448090583615,
+            "long_answer": {
+                "start_token": 851,
+                "end_token": 916,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 18.63554048538208,
+            "short_answers": [
+                {
+                    "start_token": 852,
+                    "end_token": 874,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 18.63554048538208,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 3421591493369976475,
+            "long_answer": {
+                "start_token": 687,
+                "end_token": 752,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 17.776222467422485,
+            "short_answers": [
+                {
+                    "start_token": 694,
+                    "end_token": 696,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 17.776222467422485,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 1139832586295014258,
+            "long_answer": {
+                "start_token": 6049,
+                "end_token": 7266,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 18.9294490814209,
+            "short_answers": [
+                {
+                    "start_token": 7246,
+                    "end_token": 7248,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 18.9294490814209,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -131138241864068252,
+            "long_answer": {
+                "start_token": 1207,
+                "end_token": 1621,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 13.682578802108765,
+            "short_answers": [
+                {
+                    "start_token": 1209,
+                    "end_token": 1211,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 13.682578802108765,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 3062778689902618642,
+            "long_answer": {
+                "start_token": 4460,
+                "end_token": 6496,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 16.027240753173828,
+            "short_answers": [
+                {
+                    "start_token": 5062,
+                    "end_token": 5065,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 16.027240753173828,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 2830819918714597917,
+            "long_answer": {
+                "start_token": 606,
+                "end_token": 725,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 16.68950366973877,
+            "short_answers": [
+                {
+                    "start_token": 700,
+                    "end_token": 702,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 16.68950366973877,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -1573340396671826912,
+            "long_answer": {
+                "start_token": 280,
+                "end_token": 307,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 17.903404235839844,
+            "short_answers": [
+                {
+                    "start_token": 289,
+                    "end_token": 292,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 17.903404235839844,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -1640714294501064196,
+            "long_answer": {
+                "start_token": -1,
+                "end_token": -1,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 18.297415018081665,
+            "short_answers": [
+                {
+                    "start_token": 220,
+                    "end_token": 246,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 18.297415018081665,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -6591614197125818072,
+            "long_answer": {
+                "start_token": 4856,
+                "end_token": 5194,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 17.568095445632935,
+            "short_answers": [
+                {
+                    "start_token": 4858,
+                    "end_token": 4886,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 17.568095445632935,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -303776797247457856,
+            "long_answer": {
+                "start_token": 3828,
+                "end_token": 4005,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 17.250423431396484,
+            "short_answers": [
+                {
+                    "start_token": 3829,
+                    "end_token": 3831,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 17.250423431396484,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -836623887470609373,
+            "long_answer": {
+                "start_token": 161,
+                "end_token": 181,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 15.565221548080444,
+            "short_answers": [
+                {
+                    "start_token": 162,
+                    "end_token": 180,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 15.565221548080444,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -6485399290736921293,
+            "long_answer": {
+                "start_token": 2748,
+                "end_token": 2869,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 16.38837718963623,
+            "short_answers": [
+                {
+                    "start_token": 2749,
+                    "end_token": 2762,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 16.38837718963623,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 8851020722386421469,
+            "long_answer": {
+                "start_token": 2843,
+                "end_token": 3030,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 21.11832284927368,
+            "short_answers": [
+                {
+                    "start_token": 3026,
+                    "end_token": 3028,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 21.11832284927368,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 6453146090264489338,
+            "long_answer": {
+                "start_token": 36,
+                "end_token": 61,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 12.851513862609863,
+            "short_answers": [
+                {
+                    "start_token": 37,
+                    "end_token": 59,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 12.851513862609863,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -5944168583179757903,
+            "long_answer": {
+                "start_token": 43,
+                "end_token": 131,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 16.42465829849243,
+            "short_answers": [
+                {
+                    "start_token": 68,
+                    "end_token": 82,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 16.42465829849243,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -4316845615436935736,
+            "long_answer": {
+                "start_token": 212,
+                "end_token": 310,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 21.40256357192993,
+            "short_answers": [
+                {
+                    "start_token": 213,
+                    "end_token": 215,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 21.40256357192993,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 6334254940258112455,
+            "long_answer": {
+                "start_token": 1358,
+                "end_token": 1524,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 15.95034146308899,
+            "short_answers": [
+                {
+                    "start_token": 1359,
+                    "end_token": 1376,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 15.95034146308899,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -1114133849011983215,
+            "long_answer": {
+                "start_token": 235,
+                "end_token": 435,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 20.01795482635498,
+            "short_answers": [
+                {
+                    "start_token": 236,
+                    "end_token": 238,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 20.01795482635498,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -7855437198803764135,
+            "long_answer": {
+                "start_token": -1,
+                "end_token": -1,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 17.506963968276978,
+            "short_answers": [
+                {
+                    "start_token": 5989,
+                    "end_token": 6015,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 17.506963968276978,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 7524133268429333037,
+            "long_answer": {
+                "start_token": 2216,
+                "end_token": 2295,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 20.666685104370117,
+            "short_answers": [
+                {
+                    "start_token": 2246,
+                    "end_token": 2285,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 20.666685104370117,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -4874015616517210900,
+            "long_answer": {
+                "start_token": 1119,
+                "end_token": 1199,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 17.811235666275024,
+            "short_answers": [
+                {
+                    "start_token": 1120,
+                    "end_token": 1122,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 17.811235666275024,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 5745452844331879752,
+            "long_answer": {
+                "start_token": 3502,
+                "end_token": 3542,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 19.196635246276855,
+            "short_answers": [
+                {
+                    "start_token": 3509,
+                    "end_token": 3511,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 19.196635246276855,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 2324745743680584211,
+            "long_answer": {
+                "start_token": 73,
+                "end_token": 160,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 16.891586303710938,
+            "short_answers": [
+                {
+                    "start_token": 112,
+                    "end_token": 131,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 16.891586303710938,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -1832461906521344120,
+            "long_answer": {
+                "start_token": 12,
+                "end_token": 108,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 16.840237140655518,
+            "short_answers": [
+                {
+                    "start_token": 13,
+                    "end_token": 14,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 16.840237140655518,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 4468844360465538864,
+            "long_answer": {
+                "start_token": 1157,
+                "end_token": 1414,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 19.21946954727173,
+            "short_answers": [
+                {
+                    "start_token": 1360,
+                    "end_token": 1367,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 19.21946954727173,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -5190081813109108133,
+            "long_answer": {
+                "start_token": 3534,
+                "end_token": 3695,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 19.1975359916687,
+            "short_answers": [
+                {
+                    "start_token": 3647,
+                    "end_token": 3652,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 19.1975359916687,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 2311014922242737246,
+            "long_answer": {
+                "start_token": 317,
+                "end_token": 369,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 12.609336614608765,
+            "short_answers": [
+                {
+                    "start_token": 318,
+                    "end_token": 334,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 12.609336614608765,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 2620904320274887581,
+            "long_answer": {
+                "start_token": 454,
+                "end_token": 509,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 15.266667008399963,
+            "short_answers": [
+                {
+                    "start_token": 455,
+                    "end_token": 459,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 15.266667008399963,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -4775436264322432337,
+            "long_answer": {
+                "start_token": 1096,
+                "end_token": 1218,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 16.125037908554077,
+            "short_answers": [
+                {
+                    "start_token": 1145,
+                    "end_token": 1155,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 16.125037908554077,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 8467542931261548456,
+            "long_answer": {
+                "start_token": 76,
+                "end_token": 148,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 13.935750722885132,
+            "short_answers": [
+                {
+                    "start_token": 77,
+                    "end_token": 99,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 13.935750722885132,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -8972183967530424533,
+            "long_answer": {
+                "start_token": 2631,
+                "end_token": 2786,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 14.733646869659424,
+            "short_answers": [
+                {
+                    "start_token": 2632,
+                    "end_token": 2654,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 14.733646869659424,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -2162391145049066060,
+            "long_answer": {
+                "start_token": 233,
+                "end_token": 951,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 16.259379625320435,
+            "short_answers": [
+                {
+                    "start_token": 946,
+                    "end_token": 948,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 16.259379625320435,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -2496943533721790489,
+            "long_answer": {
+                "start_token": 184,
+                "end_token": 239,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 19.381402492523193,
+            "short_answers": [
+                {
+                    "start_token": 214,
+                    "end_token": 216,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 19.381402492523193,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 4390525747986386908,
+            "long_answer": {
+                "start_token": 1417,
+                "end_token": 1833,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 18.352261543273926,
+            "short_answers": [
+                {
+                    "start_token": 1419,
+                    "end_token": 1421,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 18.352261543273926,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 966261456620232361,
+            "long_answer": {
+                "start_token": 313,
+                "end_token": 390,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 14.611382961273193,
+            "short_answers": [
+                {
+                    "start_token": 334,
+                    "end_token": 337,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 14.611382961273193,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -7428135141357814239,
+            "long_answer": {
+                "start_token": 4676,
+                "end_token": 4773,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 17.410022735595703,
+            "short_answers": [
+                {
+                    "start_token": 4752,
+                    "end_token": 4771,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 17.410022735595703,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 2044173796998267302,
+            "long_answer": {
+                "start_token": 1698,
+                "end_token": 1770,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 14.929583311080933,
+            "short_answers": [
+                {
+                    "start_token": 1699,
+                    "end_token": 1702,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 14.929583311080933,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -2244973049499814012,
+            "long_answer": {
+                "start_token": 92,
+                "end_token": 260,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 16.086450576782227,
+            "short_answers": [
+                {
+                    "start_token": 93,
+                    "end_token": 105,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 16.086450576782227,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -2446865335924530326,
+            "long_answer": {
+                "start_token": 1819,
+                "end_token": 1876,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 13.972714066505432,
+            "short_answers": [
+                {
+                    "start_token": 1820,
+                    "end_token": 1823,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 13.972714066505432,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 4480034477137973992,
+            "long_answer": {
+                "start_token": 916,
+                "end_token": 940,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 14.489538192749023,
+            "short_answers": [
+                {
+                    "start_token": 917,
+                    "end_token": 939,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 14.489538192749023,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -7660771254611710392,
+            "long_answer": {
+                "start_token": 3331,
+                "end_token": 3686,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 15.16819715499878,
+            "short_answers": [
+                {
+                    "start_token": 3436,
+                    "end_token": 3438,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 15.16819715499878,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -5202826780373179694,
+            "long_answer": {
+                "start_token": 3135,
+                "end_token": 3161,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 15.826686382293701,
+            "short_answers": [
+                {
+                    "start_token": 3136,
+                    "end_token": 3160,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 15.826686382293701,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -2549769621272056360,
+            "long_answer": {
+                "start_token": 560,
+                "end_token": 3484,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 18.17359471321106,
+            "short_answers": [
+                {
+                    "start_token": 2367,
+                    "end_token": 2368,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 18.17359471321106,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -8463303168185775472,
+            "long_answer": {
+                "start_token": 5771,
+                "end_token": 5845,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 18.79874897003174,
+            "short_answers": [
+                {
+                    "start_token": 5841,
+                    "end_token": 5843,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 18.79874897003174,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 1728824774090737582,
+            "long_answer": {
+                "start_token": 464,
+                "end_token": 638,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 18.947991847991943,
+            "short_answers": [
+                {
+                    "start_token": 600,
+                    "end_token": 602,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 18.947991847991943,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 3368255430684131446,
+            "long_answer": {
+                "start_token": 2533,
+                "end_token": 4139,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 18.34112048149109,
+            "short_answers": [
+                {
+                    "start_token": 2535,
+                    "end_token": 2537,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 18.34112048149109,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -4340755100872459608,
+            "long_answer": {
+                "start_token": 32,
+                "end_token": 134,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 14.127020955085754,
+            "short_answers": [
+                {
+                    "start_token": 33,
+                    "end_token": 36,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 14.127020955085754,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 4338620084853033544,
+            "long_answer": {
+                "start_token": 2581,
+                "end_token": 2737,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 16.202600240707397,
+            "short_answers": [
+                {
+                    "start_token": 2642,
+                    "end_token": 2643,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 16.202600240707397,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -4889375329655173589,
+            "long_answer": {
+                "start_token": 530,
+                "end_token": 593,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 12.220759212970734,
+            "short_answers": [
+                {
+                    "start_token": 573,
+                    "end_token": 575,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 12.220759212970734,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -7875813025670433033,
+            "long_answer": {
+                "start_token": 4594,
+                "end_token": 4701,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 17.604270935058594,
+            "short_answers": [
+                {
+                    "start_token": 4595,
+                    "end_token": 4614,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 17.604270935058594,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -3129873875789425845,
+            "long_answer": {
+                "start_token": 3600,
+                "end_token": 3630,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 14.273893594741821,
+            "short_answers": [
+                {
+                    "start_token": 3601,
+                    "end_token": 3629,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 14.273893594741821,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 595996307760943345,
+            "long_answer": {
+                "start_token": 4505,
+                "end_token": 4649,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 17.78018069267273,
+            "short_answers": [
+                {
+                    "start_token": 4506,
+                    "end_token": 4507,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 17.78018069267273,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 715966426665174696,
+            "long_answer": {
+                "start_token": 244,
+                "end_token": 328,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 12.97104263305664,
+            "short_answers": [
+                {
+                    "start_token": 261,
+                    "end_token": 263,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 12.97104263305664,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 1706317595158666491,
+            "long_answer": {
+                "start_token": 254,
+                "end_token": 335,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 17.97028946876526,
+            "short_answers": [
+                {
+                    "start_token": 299,
+                    "end_token": 301,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 17.97028946876526,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 7996155964462406275,
+            "long_answer": {
+                "start_token": 658,
+                "end_token": 773,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 13.821550607681274,
+            "short_answers": [
+                {
+                    "start_token": 766,
+                    "end_token": 771,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 13.821550607681274,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 7621889567969940898,
+            "long_answer": {
+                "start_token": 265,
+                "end_token": 383,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 15.97583794593811,
+            "short_answers": [
+                {
+                    "start_token": 266,
+                    "end_token": 278,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 15.97583794593811,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 6117400998512150504,
+            "long_answer": {
+                "start_token": 438,
+                "end_token": 450,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 17.175535917282104,
+            "short_answers": [
+                {
+                    "start_token": 439,
+                    "end_token": 449,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 17.175535917282104,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 7680180825510539122,
+            "long_answer": {
+                "start_token": 629,
+                "end_token": 890,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 17.21641182899475,
+            "short_answers": [
+                {
+                    "start_token": 734,
+                    "end_token": 738,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 17.21641182899475,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -3533480353388646236,
+            "long_answer": {
+                "start_token": 2926,
+                "end_token": 3377,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 13.10930585861206,
+            "short_answers": [
+                {
+                    "start_token": 2928,
+                    "end_token": 2951,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 13.10930585861206,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 2471210292422908873,
+            "long_answer": {
+                "start_token": 366,
+                "end_token": 441,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 19.044239044189453,
+            "short_answers": [
+                {
+                    "start_token": 381,
+                    "end_token": 383,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 19.044239044189453,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 6098251766645023013,
+            "long_answer": {
+                "start_token": 15804,
+                "end_token": 16204,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 14.424533128738403,
+            "short_answers": [
+                {
+                    "start_token": 15807,
+                    "end_token": 15808,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 14.424533128738403,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 3587867296617760276,
+            "long_answer": {
+                "start_token": -1,
+                "end_token": -1,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 14.256726026535034,
+            "short_answers": [
+                {
+                    "start_token": 389,
+                    "end_token": 413,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 14.256726026535034,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 2673329117028914160,
+            "long_answer": {
+                "start_token": 1291,
+                "end_token": 1409,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 16.48208999633789,
+            "short_answers": [
+                {
+                    "start_token": 1292,
+                    "end_token": 1306,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 16.48208999633789,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -510179348025098787,
+            "long_answer": {
+                "start_token": 4459,
+                "end_token": 4489,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 14.737273931503296,
+            "short_answers": [
+                {
+                    "start_token": 4460,
+                    "end_token": 4488,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 14.737273931503296,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 5159918970157275699,
+            "long_answer": {
+                "start_token": 112,
+                "end_token": 165,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 18.428247451782227,
+            "short_answers": [
+                {
+                    "start_token": 158,
+                    "end_token": 163,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 18.428247451782227,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 7646318959956236571,
+            "long_answer": {
+                "start_token": 359,
+                "end_token": 458,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 15.531813144683838,
+            "short_answers": [
+                {
+                    "start_token": 380,
+                    "end_token": 381,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 15.531813144683838,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -3632974700795137148,
+            "long_answer": {
+                "start_token": 5754,
+                "end_token": 5903,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 18.235241889953613,
+            "short_answers": [
+                {
+                    "start_token": 5763,
+                    "end_token": 5765,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 18.235241889953613,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 8697610951293426933,
+            "long_answer": {
+                "start_token": 262,
+                "end_token": 319,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 15.24535059928894,
+            "short_answers": [
+                {
+                    "start_token": 263,
+                    "end_token": 284,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 15.24535059928894,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -641745345943697344,
+            "long_answer": {
+                "start_token": 1416,
+                "end_token": 1572,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 13.646212339401245,
+            "short_answers": [
+                {
+                    "start_token": 1417,
+                    "end_token": 1426,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 13.646212339401245,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 7983190845818424390,
+            "long_answer": {
+                "start_token": 170,
+                "end_token": 282,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 17.717206478118896,
+            "short_answers": [
+                {
+                    "start_token": 248,
+                    "end_token": 252,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 17.717206478118896,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 8081436745274892553,
+            "long_answer": {
+                "start_token": -1,
+                "end_token": -1,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 15.919725179672241,
+            "short_answers": [
+                {
+                    "start_token": 1361,
+                    "end_token": 1381,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 15.919725179672241,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 8678345068092193884,
+            "long_answer": {
+                "start_token": 5587,
+                "end_token": 5766,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 18.67773151397705,
+            "short_answers": [
+                {
+                    "start_token": 5603,
+                    "end_token": 5604,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 18.67773151397705,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 1367570342412243223,
+            "long_answer": {
+                "start_token": 1115,
+                "end_token": 1144,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 17.67756748199463,
+            "short_answers": [
+                {
+                    "start_token": 1127,
+                    "end_token": 1129,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 17.67756748199463,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -8592961744787992719,
+            "long_answer": {
+                "start_token": 263,
+                "end_token": 413,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 13.977805852890015,
+            "short_answers": [
+                {
+                    "start_token": 286,
+                    "end_token": 288,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 13.977805852890015,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -6667478543914419448,
+            "long_answer": {
+                "start_token": 1314,
+                "end_token": 1584,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 18.408580780029297,
+            "short_answers": [
+                {
+                    "start_token": 1316,
+                    "end_token": 1320,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 18.408580780029297,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 9125206758598146020,
+            "long_answer": {
+                "start_token": 1038,
+                "end_token": 1097,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 14.968561708927155,
+            "short_answers": [
+                {
+                    "start_token": 1039,
+                    "end_token": 1041,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 14.968561708927155,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -4169784336298934515,
+            "long_answer": {
+                "start_token": 1650,
+                "end_token": 1775,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 18.140016555786133,
+            "short_answers": [
+                {
+                    "start_token": 1733,
+                    "end_token": 1736,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 18.140016555786133,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -5433417071145024610,
+            "long_answer": {
+                "start_token": 1020,
+                "end_token": 1240,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 16.768908262252808,
+            "short_answers": [
+                {
+                    "start_token": 1021,
+                    "end_token": 1022,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 16.768908262252808,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 2161886597860157005,
+            "long_answer": {
+                "start_token": 790,
+                "end_token": 908,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 19.05751895904541,
+            "short_answers": [
+                {
+                    "start_token": 792,
+                    "end_token": 820,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 19.05751895904541,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -397964857452916469,
+            "long_answer": {
+                "start_token": 16,
+                "end_token": 49,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 16.445164680480957,
+            "short_answers": [
+                {
+                    "start_token": 17,
+                    "end_token": 35,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 16.445164680480957,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 7152569300818483186,
+            "long_answer": {
+                "start_token": 3658,
+                "end_token": 3679,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 19.031126737594604,
+            "short_answers": [
+                {
+                    "start_token": 3660,
+                    "end_token": 3662,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 19.031126737594604,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -3933902576274996149,
+            "long_answer": {
+                "start_token": 373,
+                "end_token": 465,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 16.64958930015564,
+            "short_answers": [
+                {
+                    "start_token": 452,
+                    "end_token": 453,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 16.64958930015564,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 481461689673789519,
+            "long_answer": {
+                "start_token": 118,
+                "end_token": 498,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 12.497291846200824,
+            "short_answers": [
+                {
+                    "start_token": 121,
+                    "end_token": 153,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 12.497291846200824,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 761079737280110147,
+            "long_answer": {
+                "start_token": 1573,
+                "end_token": 1619,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 14.125172734260559,
+            "short_answers": [
+                {
+                    "start_token": 1574,
+                    "end_token": 1593,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 14.125172734260559,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -909916459264223411,
+            "long_answer": {
+                "start_token": 233,
+                "end_token": 382,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 17.817238807678223,
+            "short_answers": [
+                {
+                    "start_token": 234,
+                    "end_token": 236,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 17.817238807678223,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 8358137531154800533,
+            "long_answer": {
+                "start_token": 1103,
+                "end_token": 1151,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 16.5999858379364,
+            "short_answers": [
+                {
+                    "start_token": 1104,
+                    "end_token": 1113,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 16.5999858379364,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 8199559637713501129,
+            "long_answer": {
+                "start_token": 70,
+                "end_token": 161,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 15.008603811264038,
+            "short_answers": [
+                {
+                    "start_token": 157,
+                    "end_token": 159,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 15.008603811264038,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 2352051038192309240,
+            "long_answer": {
+                "start_token": 125,
+                "end_token": 244,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 15.37216854095459,
+            "short_answers": [
+                {
+                    "start_token": 126,
+                    "end_token": 147,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 15.37216854095459,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -8600630082208977292,
+            "long_answer": {
+                "start_token": 1018,
+                "end_token": 1036,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 16.13862180709839,
+            "short_answers": [
+                {
+                    "start_token": 1020,
+                    "end_token": 1029,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 16.13862180709839,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 6556718257422998662,
+            "long_answer": {
+                "start_token": 1262,
+                "end_token": 1480,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 16.224521160125732,
+            "short_answers": [
+                {
+                    "start_token": 1359,
+                    "end_token": 1367,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 16.224521160125732,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 8742811514060899073,
+            "long_answer": {
+                "start_token": 102,
+                "end_token": 210,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 18.805387496948242,
+            "short_answers": [
+                {
+                    "start_token": 103,
+                    "end_token": 105,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 18.805387496948242,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 8174037572148648768,
+            "long_answer": {
+                "start_token": 3476,
+                "end_token": 3672,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 17.573369026184082,
+            "short_answers": [
+                {
+                    "start_token": 3667,
+                    "end_token": 3670,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 17.573369026184082,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -4825429046585874047,
+            "long_answer": {
+                "start_token": 6902,
+                "end_token": 7090,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 15.858981370925903,
+            "short_answers": [
+                {
+                    "start_token": 6904,
+                    "end_token": 6907,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 15.858981370925903,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -8129143127887276431,
+            "long_answer": {
+                "start_token": 413,
+                "end_token": 745,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 19.681419134140015,
+            "short_answers": [
+                {
+                    "start_token": 721,
+                    "end_token": 725,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 19.681419134140015,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 3221262508309669486,
+            "long_answer": {
+                "start_token": 622,
+                "end_token": 710,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 17.702512741088867,
+            "short_answers": [
+                {
+                    "start_token": 693,
+                    "end_token": 695,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 17.702512741088867,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 4560312274731820970,
+            "long_answer": {
+                "start_token": 408,
+                "end_token": 468,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 11.658562421798706,
+            "short_answers": [
+                {
+                    "start_token": 409,
+                    "end_token": 422,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 11.658562421798706,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -5449088710566174811,
+            "long_answer": {
+                "start_token": 128,
+                "end_token": 200,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 21.405929565429688,
+            "short_answers": [
+                {
+                    "start_token": 129,
+                    "end_token": 132,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 21.405929565429688,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -1410811981828802217,
+            "long_answer": {
+                "start_token": 169,
+                "end_token": 188,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 16.60160779953003,
+            "short_answers": [
+                {
+                    "start_token": 170,
+                    "end_token": 187,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 16.60160779953003,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 6928004204659089755,
+            "long_answer": {
+                "start_token": 335,
+                "end_token": 441,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 19.029446601867676,
+            "short_answers": [
+                {
+                    "start_token": 336,
+                    "end_token": 337,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 19.029446601867676,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -2029841812785846377,
+            "long_answer": {
+                "start_token": 671,
+                "end_token": 798,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 17.159289598464966,
+            "short_answers": [
+                {
+                    "start_token": 721,
+                    "end_token": 725,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 17.159289598464966,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 8588157975437869890,
+            "long_answer": {
+                "start_token": 387,
+                "end_token": 468,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 14.306506395339966,
+            "short_answers": [
+                {
+                    "start_token": 412,
+                    "end_token": 413,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 14.306506395339966,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 9206636474403612005,
+            "long_answer": {
+                "start_token": 257,
+                "end_token": 340,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 20.142688751220703,
+            "short_answers": [
+                {
+                    "start_token": 269,
+                    "end_token": 271,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 20.142688751220703,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -7123670178204378853,
+            "long_answer": {
+                "start_token": 2905,
+                "end_token": 2985,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 15.745484828948975,
+            "short_answers": [
+                {
+                    "start_token": 2943,
+                    "end_token": 2945,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 15.745484828948975,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -8290462455785623591,
+            "long_answer": {
+                "start_token": 1928,
+                "end_token": 2110,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 18.032851934432983,
+            "short_answers": [
+                {
+                    "start_token": 1929,
+                    "end_token": 1951,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 18.032851934432983,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 7306427910586845578,
+            "long_answer": {
+                "start_token": 414,
+                "end_token": 528,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 17.625959157943726,
+            "short_answers": [
+                {
+                    "start_token": 514,
+                    "end_token": 527,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 17.625959157943726,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -461258131989129967,
+            "long_answer": {
+                "start_token": 18,
+                "end_token": 71,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 16.60398268699646,
+            "short_answers": [
+                {
+                    "start_token": 19,
+                    "end_token": 20,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 16.60398268699646,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 4031784787913194969,
+            "long_answer": {
+                "start_token": 5844,
+                "end_token": 5908,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 17.800758600234985,
+            "short_answers": [
+                {
+                    "start_token": 5902,
+                    "end_token": 5906,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 17.800758600234985,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 6558406970363500511,
+            "long_answer": {
+                "start_token": 281,
+                "end_token": 334,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 18.166605710983276,
+            "short_answers": [
+                {
+                    "start_token": 295,
+                    "end_token": 297,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 18.166605710983276,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -8817510910624892182,
+            "long_answer": {
+                "start_token": 1895,
+                "end_token": 1971,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 14.996080338954926,
+            "short_answers": [
+                {
+                    "start_token": 1896,
+                    "end_token": 1909,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 14.996080338954926,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -8578718064768898424,
+            "long_answer": {
+                "start_token": 1202,
+                "end_token": 1270,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 16.938629627227783,
+            "short_answers": [
+                {
+                    "start_token": 1203,
+                    "end_token": 1212,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 16.938629627227783,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 317346231135334007,
+            "long_answer": {
+                "start_token": 172,
+                "end_token": 281,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 17.36627173423767,
+            "short_answers": [
+                {
+                    "start_token": 173,
+                    "end_token": 176,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 17.36627173423767,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 3630714342371225513,
+            "long_answer": {
+                "start_token": 1042,
+                "end_token": 1080,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 15.605661392211914,
+            "short_answers": [
+                {
+                    "start_token": 1043,
+                    "end_token": 1065,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 15.605661392211914,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 5191383626718446541,
+            "long_answer": {
+                "start_token": 2134,
+                "end_token": 2287,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 13.274322152137756,
+            "short_answers": [
+                {
+                    "start_token": 2135,
+                    "end_token": 2137,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 13.274322152137756,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -8650104853556692961,
+            "long_answer": {
+                "start_token": 486,
+                "end_token": 575,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 18.029728412628174,
+            "short_answers": [
+                {
+                    "start_token": 523,
+                    "end_token": 525,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 18.029728412628174,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -8381009484419676852,
+            "long_answer": {
+                "start_token": 1805,
+                "end_token": 1856,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 14.293517827987671,
+            "short_answers": [
+                {
+                    "start_token": 1806,
+                    "end_token": 1826,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 14.293517827987671,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 9182862907236363242,
+            "long_answer": {
+                "start_token": 1611,
+                "end_token": 2163,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 19.536683082580566,
+            "short_answers": [
+                {
+                    "start_token": 1613,
+                    "end_token": 1615,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 19.536683082580566,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -9143071050751652249,
+            "long_answer": {
+                "start_token": 494,
+                "end_token": 5035,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 15.194382786750793,
+            "short_answers": [
+                {
+                    "start_token": 2260,
+                    "end_token": 2263,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 15.194382786750793,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -3307908231607643449,
+            "long_answer": {
+                "start_token": 5012,
+                "end_token": 5064,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 19.200286149978638,
+            "short_answers": [
+                {
+                    "start_token": 5019,
+                    "end_token": 5021,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 19.200286149978638,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 8146788998748248286,
+            "long_answer": {
+                "start_token": 275,
+                "end_token": 371,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 15.57515287399292,
+            "short_answers": [
+                {
+                    "start_token": 300,
+                    "end_token": 302,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 15.57515287399292,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 2112011235189339436,
+            "long_answer": {
+                "start_token": 2178,
+                "end_token": 2274,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 15.906616687774658,
+            "short_answers": [
+                {
+                    "start_token": 2180,
+                    "end_token": 2181,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 15.906616687774658,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -3672139806378353884,
+            "long_answer": {
+                "start_token": 1703,
+                "end_token": 1725,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 15.524498343467712,
+            "short_answers": [
+                {
+                    "start_token": 1704,
+                    "end_token": 1724,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 15.524498343467712,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -5540686429652317618,
+            "long_answer": {
+                "start_token": 220,
+                "end_token": 298,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 16.73461604118347,
+            "short_answers": [
+                {
+                    "start_token": 226,
+                    "end_token": 236,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 16.73461604118347,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 2403472152644976805,
+            "long_answer": {
+                "start_token": 3908,
+                "end_token": 4179,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 11.936405658721924,
+            "short_answers": [
+                {
+                    "start_token": 4031,
+                    "end_token": 4032,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 11.936405658721924,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -4752044886865067782,
+            "long_answer": {
+                "start_token": 289,
+                "end_token": 474,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 17.494987726211548,
+            "short_answers": [
+                {
+                    "start_token": 296,
+                    "end_token": 318,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 17.494987726211548,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 3360192851092621768,
+            "long_answer": {
+                "start_token": 930,
+                "end_token": 1017,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 16.510092735290527,
+            "short_answers": [
+                {
+                    "start_token": 932,
+                    "end_token": 933,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 16.510092735290527,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -2991495048708668233,
+            "long_answer": {
+                "start_token": -1,
+                "end_token": -1,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 18.622225999832153,
+            "short_answers": [
+                {
+                    "start_token": 3177,
+                    "end_token": 3203,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 18.622225999832153,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 7761896900514914630,
+            "long_answer": {
+                "start_token": 974,
+                "end_token": 1069,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 14.248818159103394,
+            "short_answers": [
+                {
+                    "start_token": 975,
+                    "end_token": 988,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 14.248818159103394,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 2198538934964547889,
+            "long_answer": {
+                "start_token": 55,
+                "end_token": 83,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 14.120110034942627,
+            "short_answers": [
+                {
+                    "start_token": 56,
+                    "end_token": 82,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 14.120110034942627,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -6560319052930436991,
+            "long_answer": {
+                "start_token": 214,
+                "end_token": 374,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 17.568702459335327,
+            "short_answers": [
+                {
+                    "start_token": 311,
+                    "end_token": 313,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 17.568702459335327,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 6441116490508816783,
+            "long_answer": {
+                "start_token": 57,
+                "end_token": 168,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 14.055517673492432,
+            "short_answers": [
+                {
+                    "start_token": 58,
+                    "end_token": 73,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 14.055517673492432,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 8265744380270943125,
+            "long_answer": {
+                "start_token": 650,
+                "end_token": 915,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 18.09911060333252,
+            "short_answers": [
+                {
+                    "start_token": 747,
+                    "end_token": 748,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 18.09911060333252,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -523751984486228566,
+            "long_answer": {
+                "start_token": 104,
+                "end_token": 146,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 17.440162897109985,
+            "short_answers": [
+                {
+                    "start_token": 105,
+                    "end_token": 116,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 17.440162897109985,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -5985324559461021991,
+            "long_answer": {
+                "start_token": 677,
+                "end_token": 787,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 18.461176872253418,
+            "short_answers": [
+                {
+                    "start_token": 678,
+                    "end_token": 683,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 18.461176872253418,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 3723628014502752965,
+            "long_answer": {
+                "start_token": 339,
+                "end_token": 476,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 20.662368774414062,
+            "short_answers": [
+                {
+                    "start_token": 357,
+                    "end_token": 359,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 20.662368774414062,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -8473930474498791883,
+            "long_answer": {
+                "start_token": 2016,
+                "end_token": 2135,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 17.347874879837036,
+            "short_answers": [
+                {
+                    "start_token": 2025,
+                    "end_token": 2026,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 17.347874879837036,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 1404052427196543739,
+            "long_answer": {
+                "start_token": 198,
+                "end_token": 334,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 16.893610954284668,
+            "short_answers": [
+                {
+                    "start_token": 200,
+                    "end_token": 202,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 16.893610954284668,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 3860011458309154397,
+            "long_answer": {
+                "start_token": 348,
+                "end_token": 360,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 16.6493821144104,
+            "short_answers": [
+                {
+                    "start_token": 355,
+                    "end_token": 358,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 16.6493821144104,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 5704535453361095916,
+            "long_answer": {
+                "start_token": 565,
+                "end_token": 821,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 17.71961736679077,
+            "short_answers": [
+                {
+                    "start_token": 805,
+                    "end_token": 814,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 17.71961736679077,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 3223058827565794274,
+            "long_answer": {
+                "start_token": 440,
+                "end_token": 482,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 14.29020643234253,
+            "short_answers": [
+                {
+                    "start_token": 442,
+                    "end_token": 444,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 14.29020643234253,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -6431068926886690087,
+            "long_answer": {
+                "start_token": 159,
+                "end_token": 309,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 18.845518112182617,
+            "short_answers": [
+                {
+                    "start_token": 271,
+                    "end_token": 272,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 18.845518112182617,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 8624015086161831023,
+            "long_answer": {
+                "start_token": 323,
+                "end_token": 481,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 14.442672491073608,
+            "short_answers": [
+                {
+                    "start_token": 324,
+                    "end_token": 332,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 14.442672491073608,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -2112691997365137136,
+            "long_answer": {
+                "start_token": 1877,
+                "end_token": 1952,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 17.95442485809326,
+            "short_answers": [
+                {
+                    "start_token": 1878,
+                    "end_token": 1885,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 17.95442485809326,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -7481302453338572765,
+            "long_answer": {
+                "start_token": 429,
+                "end_token": 466,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 15.38502311706543,
+            "short_answers": [
+                {
+                    "start_token": 430,
+                    "end_token": 432,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 15.38502311706543,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 5225754983651766092,
+            "long_answer": {
+                "start_token": 749,
+                "end_token": 949,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 15.55996823310852,
+            "short_answers": [
+                {
+                    "start_token": 934,
+                    "end_token": 948,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 15.55996823310852,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -5670674709553776773,
+            "long_answer": {
+                "start_token": 137,
+                "end_token": 213,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 11.691744655370712,
+            "short_answers": [
+                {
+                    "start_token": 174,
+                    "end_token": 182,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 11.691744655370712,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -5250380797778837295,
+            "long_answer": {
+                "start_token": 390,
+                "end_token": 530,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 18.101763010025024,
+            "short_answers": [
+                {
+                    "start_token": 439,
+                    "end_token": 441,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 18.101763010025024,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -3518761305265807887,
+            "long_answer": {
+                "start_token": 894,
+                "end_token": 1028,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 13.624308824539185,
+            "short_answers": [
+                {
+                    "start_token": 895,
+                    "end_token": 903,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 13.624308824539185,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -3617870338472078590,
+            "long_answer": {
+                "start_token": 334,
+                "end_token": 494,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 18.263859510421753,
+            "short_answers": [
+                {
+                    "start_token": 363,
+                    "end_token": 365,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 18.263859510421753,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -1486101434620477879,
+            "long_answer": {
+                "start_token": 1888,
+                "end_token": 2016,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 16.135202884674072,
+            "short_answers": [
+                {
+                    "start_token": 2001,
+                    "end_token": 2002,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 16.135202884674072,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -7900537827363346667,
+            "long_answer": {
+                "start_token": 42,
+                "end_token": 142,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 15.017626762390137,
+            "short_answers": [
+                {
+                    "start_token": 43,
+                    "end_token": 65,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 15.017626762390137,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -7299076255108845857,
+            "long_answer": {
+                "start_token": 16,
+                "end_token": 121,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 12.877620220184326,
+            "short_answers": [
+                {
+                    "start_token": 34,
+                    "end_token": 54,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 12.877620220184326,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -5117382453861077400,
+            "long_answer": {
+                "start_token": 213,
+                "end_token": 496,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 17.039642810821533,
+            "short_answers": [
+                {
+                    "start_token": 255,
+                    "end_token": 257,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 17.039642810821533,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 2750109669430963686,
+            "long_answer": {
+                "start_token": 318,
+                "end_token": 464,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 15.527220010757446,
+            "short_answers": [
+                {
+                    "start_token": 319,
+                    "end_token": 331,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 15.527220010757446,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -6965315175406025099,
+            "long_answer": {
+                "start_token": 3993,
+                "end_token": 4282,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 18.335219144821167,
+            "short_answers": [
+                {
+                    "start_token": 3995,
+                    "end_token": 3999,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 18.335219144821167,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -7115492812897878586,
+            "long_answer": {
+                "start_token": 952,
+                "end_token": 2158,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 17.475836515426636,
+            "short_answers": [
+                {
+                    "start_token": 954,
+                    "end_token": 958,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 17.475836515426636,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 8112877552630777245,
+            "long_answer": {
+                "start_token": 18,
+                "end_token": 167,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 14.814807653427124,
+            "short_answers": [
+                {
+                    "start_token": 19,
+                    "end_token": 40,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 14.814807653427124,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": 4398207059107866695,
+            "long_answer": {
+                "start_token": 2104,
+                "end_token": 2230,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 13.651256084442139,
+            "short_answers": [
+                {
+                    "start_token": 2203,
+                    "end_token": 2207,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 13.651256084442139,
+            "yes_no_answer": "NONE"
+        },
+        {
+            "example_id": -8487838905093003039,
+            "long_answer": {
+                "start_token": 159,
+                "end_token": 212,
+                "start_byte": -1,
+                "end_byte": -1
+            },
+            "long_answer_score": 18.227222442626953,
+            "short_answers": [
+                {
+                    "start_token": 179,
+                    "end_token": 180,
+                    "start_byte": -1,
+                    "end_byte": -1
+                }
+            ],
+            "short_answers_score": 18.227222442626953,
+            "yes_no_answer": "NONE"
+        }
+    ]
+}
