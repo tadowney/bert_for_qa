@@ -42,7 +42,7 @@ For each word answer, we
 Unlike datasets like SQuAD, which have only one context to infer the answer to a question from, the NQ dataset has an entire HTML document to peruse and understand. Thus, it poses a much more difficult task to infer answers from these very large units of text. Therefore, we need to first extract the most probable context units from these large documents first, in order to make the task at hand more feasible. Fortunately, each training example already has token spans of the most probable candidate contexts in the form of candidate_long_answers, which correspond to three different context types: pieces of text wrapped by a paragraph, table, or list HTML tags. Furthermore, each candidate answer has a boolean is_top_level attribute which denotes whether the corresponding candidate is important or not to be considered in inferring the answer to the question. Therefore, our model further processes these training examples to extract these candidate answers. Each candidate answer is padded with two padding tokens [‘Context_id’] and [‘Context_type’] and appended into a master string variable Contexts. This string will in turn be fed as the corresponding context to infer the answer from. It must also be noted that in order to accomplish the task of question/answering, we added a \<BEG\> and \<END\> token into the model in order for the system to learn where the answer to a question begins and ends.
 
 <p align="center">
-  <img width="" height="" src="./images/model_flow.jpg">
+  <img width="" height="" src="./images/model_flow.png">
 </p>
 
 ## Datasets
@@ -73,7 +73,7 @@ While we acknowledge that using a larger model will almost certainly guarantee b
 With a training set of 300k samples it took ~32 hours to train. Not surprisingly, we found that between 0-100k samples there is a large increase in F1 score and then steadily increases until about 230k samples. After that, the performance begins to taper off and we don’t achieve as large of a boost in performance when increasing the training size. We used the same hyperparameters (suggested by Google) throughout each iteration in the graph seen below.
 
 <p align="center">
-  <img width="778" height="433" src="./images/model_performance.jpg">
+  <img width="778" height="433" src="./images/model_performance.png">
 </p>
 
 
