@@ -24,7 +24,7 @@ A detailed presentation of the inner workings of BERT can be found [here](./BERT
 Since the initial publication of BERT, there have been many different model sizes released. Given the computational resources needed to run BERT, it was deduced by Google’s research team that smaller models would be imperative for the general public to use and implement.
 
 <p align="center">
-  <img width="" height="" src="./images/BERT_model_sizes.jpg">
+  <img width="" height="" src="./images/BERT_model_sizes.png">
 </p>
 
 Each row refers to how many stacked encoders the model contains and each column is how many hidden units the feed forward network contains.  
